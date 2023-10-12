@@ -3,3 +3,14 @@ C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Pra
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.AssemblyInfoInputs.cache
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.AssemblyInfo.cs
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\ref\task001_проверка_квадрата.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\bin\Debug\net5.0\task001_проверка_квадрата.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\ref\task001_проверка_квадрата.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.genruntimeconfig.cache

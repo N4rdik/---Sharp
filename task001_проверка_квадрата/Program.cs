@@ -3,16 +3,22 @@
 */
 using System;
 
-System.Console.WriteLine("Ведите два числа: ");
+Console.Clear();
 
+System.Console.WriteLine("Ведите первое число: ");
 int userNumber1 = System.Convert.ToInt32(System.Console.ReadLine());
+
+System.Console.WriteLine("Введите второе число: ");
 int userNumber2 = System.Convert.ToInt32(Console.ReadLine());
 
-if (userNumber1 / userNumber2 == user_number_2)
+if (userNumber1 / userNumber2 == userNumber2)
 {
-    System.Console.WriteLine($"Введеное первое число являеться квдратом второго");
+    System.Console.WriteLine($"Введеное первое число являеться квадратом второго.");
 }
 else
 {
-    System.Console.WriteLine($"Введеное первое число не являеться квадратом второго");
+    if (userNumber2 / userNumber1 == userNumber1) System.Console.WriteLine($"Введеное второе число являеться квадратом первого.");
+    else System.Console.WriteLine($"Введеное первое число не являеться квадратом второго и наоборот.");
+    
 }
+
