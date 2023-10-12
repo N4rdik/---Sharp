@@ -1,0 +1,5 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task001_проверка_квадрата\obj\Debug\net5.0\task001_проверка_квадрата.csproj.CoreCompileInputs.cache
