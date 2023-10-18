@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task004_пропистать_цифры_от_зааданного/1.0.0": {
+        "runtime": {
+          "task004_пропистать_цифры_от_зааданного.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task004_пропистать_цифры_от_зааданного/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

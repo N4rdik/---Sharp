@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\ref\task008_print_all_even_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\bin\Debug\net5.0\task008_print_all_even_numbers.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\ref\task008_print_all_even_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task008_print_all_even_numbers\obj\Debug\net5.0\task008_print_all_even_numbers.genruntimeconfig.cache

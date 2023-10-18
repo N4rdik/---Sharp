@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\ref\task026_how_many_digits.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\bin\Debug\net5.0\task026_how_many_digits.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\ref\task026_how_many_digits.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task026_how_many_digits\obj\Debug\net5.0\task026_how_many_digits.genruntimeconfig.cache

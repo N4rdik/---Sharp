@@ -1,0 +1,5 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.csproj.CoreCompileInputs.cache

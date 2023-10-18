@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task006_find_max_from_3_numbers/1.0.0": {
+        "runtime": {
+          "task006_find_max_from_3_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task006_find_max_from_3_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

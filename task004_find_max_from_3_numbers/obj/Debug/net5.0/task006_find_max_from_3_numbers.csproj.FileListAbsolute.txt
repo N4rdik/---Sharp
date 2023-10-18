@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\ref\task006_find_max_from_3_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\bin\Debug\net5.0\task006_find_max_from_3_numbers.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\ref\task006_find_max_from_3_numbers.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_find_max_from_3_numbers\obj\Debug\net5.0\task006_find_max_from_3_numbers.genruntimeconfig.cache

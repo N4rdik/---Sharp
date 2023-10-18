@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task002_2_number_comaparison/1.0.0": {
+        "runtime": {
+          "task002_2_number_comaparison.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task002_2_number_comaparison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

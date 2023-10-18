@@ -1,0 +1,5 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.csproj.CoreCompileInputs.cache

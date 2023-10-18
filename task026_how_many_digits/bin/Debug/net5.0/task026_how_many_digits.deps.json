@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task026_how_many_digits/1.0.0": {
+        "runtime": {
+          "task026_how_many_digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task026_how_many_digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\ref\task002_2_number_comaparison.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\bin\Debug\net5.0\task002_2_number_comaparison.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\ref\task002_2_number_comaparison.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task002_2_number_comaparison\obj\Debug\net5.0\task002_2_number_comaparison.genruntimeconfig.cache

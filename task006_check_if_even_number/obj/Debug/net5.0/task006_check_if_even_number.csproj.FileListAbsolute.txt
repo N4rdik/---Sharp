@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\ref\task006_check_if_even_number.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\bin\Debug\net5.0\task006_check_if_even_number.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\ref\task006_check_if_even_number.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task006_check_if_even_number\obj\Debug\net5.0\task006_check_if_even_number.genruntimeconfig.cache
