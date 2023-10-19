@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task016_number_square_check/1.0.0": {
+        "runtime": {
+          "task016_number_square_check.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task016_number_square_check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

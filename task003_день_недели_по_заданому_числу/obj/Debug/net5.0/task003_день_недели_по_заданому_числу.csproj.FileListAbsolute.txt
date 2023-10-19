@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\ref\task003_день_недели_по_заданому_числу.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\bin\Debug\net5.0\task003_день_недели_по_заданому_числу.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\ref\task003_день_недели_по_заданому_числу.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task003_день_недели_по_заданому_числу\obj\Debug\net5.0\task003_день_недели_по_заданому_числу.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task003_день_недели_по_заданому_числу/1.0.0": {
+        "runtime": {
+          "task003_день_недели_по_заданому_числу.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task003_день_недели_по_заданому_числу/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

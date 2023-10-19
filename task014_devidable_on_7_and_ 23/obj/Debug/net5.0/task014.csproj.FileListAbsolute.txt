@@ -1,0 +1,32 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\ref\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\bin\Debug\net5.0\task014.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\ref\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014\obj\Debug\net5.0\task014.genruntimeconfig.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\ref\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\ref\task014.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\bin\Debug\net5.0\task014.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task014_devidable_on_7_and_ 23\obj\Debug\net5.0\task014.genruntimeconfig.cache

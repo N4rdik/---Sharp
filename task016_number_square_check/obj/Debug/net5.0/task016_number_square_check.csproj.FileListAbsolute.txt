@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\ref\task016_number_square_check.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\bin\Debug\net5.0\task016_number_square_check.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\ref\task016_number_square_check.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task016_number_square_check\obj\Debug\net5.0\task016_number_square_check.genruntimeconfig.cache
