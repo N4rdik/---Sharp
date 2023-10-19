@@ -4,3 +4,14 @@
 82 -> 10
 9012 -> 12
 */
+
+using System;
+Console.Clear();
+
+
+int takeEntNum(string message)
+{
+    System.Console.WriteLine(message);
+    int result = Convert.ToInt32(Console.ReadLine());
+    return result;
+}

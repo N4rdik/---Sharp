@@ -20,7 +20,7 @@ int arrLenght = Convert.ToInt32(Console.ReadLine());
 int[] randomArray(int start, int end, int lenght)
 {
     int[] array = new int[size];
-    for (int i = 0; i < sizeof; i++)
+    for (int i = 0; i < size; i++)
     {
         array[i] = new Random().Next(start, end, lenght);
     }
