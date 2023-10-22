@@ -14,11 +14,11 @@ int userNumber = Convert.ToInt32(Console.ReadLine());
 
 int numDg (int a)
     {
-        if (userNumber)
+        
         int count = 0;
-        for (int i = 1; i < userNumber; i = i * 10)
+        for (int i = a; i > 0; i /= 10)
             {
-                count = count + 1;
+                count ++;
 
             }
         return count;

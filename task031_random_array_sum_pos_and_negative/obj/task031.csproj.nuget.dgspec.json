@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031\\task031.csproj": {}
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031_random_array_sum_pos_and_negative\\task031.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031\\task031.csproj": {
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031_random_array_sum_pos_and_negative\\task031.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031\\task031.csproj",
+        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031_random_array_sum_pos_and_negative\\task031.csproj",
         "projectName": "task031",
-        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031\\task031.csproj",
+        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031_random_array_sum_pos_and_negative\\task031.csproj",
         "packagesPath": "C:\\Users\\s1035442\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031\\obj\\",
+        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task031_random_array_sum_pos_and_negative\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s1035442\\AppData\\Roaming\\NuGet\\NuGet.Config"
