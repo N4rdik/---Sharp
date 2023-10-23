@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "task018_possible_coordinates_place/1.0.0": {
+        "runtime": {
+          "task018_possible_coordinates_place.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task018_possible_coordinates_place/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

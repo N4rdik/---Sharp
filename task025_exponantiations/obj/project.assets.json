@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_\\task025_.csproj",
+      "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_exponantiations\\task025_.csproj",
       "projectName": "task025_",
-      "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_\\task025_.csproj",
+      "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_exponantiations\\task025_.csproj",
       "packagesPath": "C:\\Users\\s1035442\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_\\obj\\",
+      "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task025_exponantiations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s1035442\\AppData\\Roaming\\NuGet\\NuGet.Config"

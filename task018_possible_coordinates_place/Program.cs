@@ -4,6 +4,16 @@
 using System;
 Console.Clear();
 
-System.Console.WriteLine("Ddtlbnt номер четверти 1,2,3 или 4:");
-int quarter = System.Convert.To Int32(Console.ReadLine();
-if (quarter == 1) System.Console.WriteLine("Чтобы точка была в первой четверти необходимо точку X должна быть положительной и точка Y должна быть положительной ");
+string CheckTheQuarterPointRange (int a)
+{
+    string result = "";
+    if(a == 1) result =  "To place your point in first quarter coordinates should be x > 0 and y > 0.";
+    if(a == 2) result =  "To place your point in second quarter coordinates should be x > 0 and y < 0.";
+    if(a == 3) result =  "To place your point in third quarter coordinates should be x < 0 and y > 0.";
+    if(a == 4) result =  "To place your point in fourth quarter coordinates should be x < 0 and y < 0.";
+    return result;
+}
+System.Console.WriteLine("Give quarter number to know point coordinate range");
+int inputA = Convert.ToInt32(Console.ReadLine());
+
+System.Console.WriteLine(CheckTheQuarterPointRange(inputA));

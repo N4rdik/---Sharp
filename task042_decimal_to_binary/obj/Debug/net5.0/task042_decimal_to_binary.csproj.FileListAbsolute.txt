@@ -1,0 +1,5 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.csproj.CoreCompileInputs.cache

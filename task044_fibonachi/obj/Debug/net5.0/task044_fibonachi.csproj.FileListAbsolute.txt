@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\ref\task044_fibonachi.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\bin\Debug\net5.0\task044_fibonachi.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\ref\task044_fibonachi.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task044_fibonachi\obj\Debug\net5.0\task044_fibonachi.genruntimeconfig.cache

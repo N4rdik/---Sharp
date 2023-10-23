@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027\\task027.csproj": {}
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027_sum_of_digits\\task027.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027\\task027.csproj": {
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027_sum_of_digits\\task027.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027\\task027.csproj",
+        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027_sum_of_digits\\task027.csproj",
         "projectName": "task027",
-        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027\\task027.csproj",
+        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027_sum_of_digits\\task027.csproj",
         "packagesPath": "C:\\Users\\s1035442\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027\\obj\\",
+        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task027_sum_of_digits\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s1035442\\AppData\\Roaming\\NuGet\\NuGet.Config"

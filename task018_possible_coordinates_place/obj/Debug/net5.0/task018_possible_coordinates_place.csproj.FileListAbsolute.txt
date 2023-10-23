@@ -3,3 +3,14 @@ C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Pra
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.AssemblyInfoInputs.cache
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.AssemblyInfo.cs
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\ref\task018_possible_coordinates_place.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\bin\Debug\net5.0\task018_possible_coordinates_place.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\ref\task018_possible_coordinates_place.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task018_possible_coordinates_place\obj\Debug\net5.0\task018_possible_coordinates_place.genruntimeconfig.cache
