@@ -1,12 +1,33 @@
-﻿Console.Clear();
-System.Console.WriteLine("Введите расположение точки A по оси координат x: ");
-int pointAX = Convert.ToInt32 (System.Console.ReadLine());
-System.Console.WriteLine("Введите расположение точки A по оси координат y: ");
-int pointAY = Convert.ToInt32 (System.Console.ReadLine());
+﻿/*
+21 Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
+*/
+using System;
+Console.Clear();
 
 
-System.Console.WriteLine("Введите расположение точки B по оси координат x: ");
-int pointBX = Convert.ToInt32 (System.Console.ReadLine());
-System.Console.WriteLine("Введите расположение точки B по оси координат y: ");
-int pointBY = Convert.ToInt32 (System.Console.ReadLine());
+string TakeEntCoordinate(string message)
+{
+    System.Console.WriteLine(message);
+    string result = Convert.ToString(Console.ReadLine());
+    return result;
+}
 
+double DistanceBetweenPointsIn2D(int[] a, int[] b)
+{
+    double result = 0;
+    for (int i = 0; i < a.Length; i++)
+    {
+        result = result + Math.Pow((a[i] - b[i]), 2);
+    }
+    return result = Math.Sqrt(result);
+}
+
+string inputA = TakeEntCoordinate("Enter Coordinate of first point splited by space button (x y):");
+var strings1 = inputA.Split(' ');
+int[] pointA = Array.ConvertAll(strings1, s => int.Parse(s));
+
+string inputB = TakeEntCoordinate("Enter Coordinate of first point splited by space button (x y):");
+var strings2 = inputB.Split(' ');
+int[] pointB = Array.ConvertAll(strings2, s => int.Parse(s));
+
+System.Console.WriteLine($"Distance beetween of two entered point is: {DistanceBetweenPointsIn2D(pointA, pointB)}");

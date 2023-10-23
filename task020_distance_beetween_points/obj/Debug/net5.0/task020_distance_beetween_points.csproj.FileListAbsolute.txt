@@ -3,3 +3,14 @@ C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Pra
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.AssemblyInfoInputs.cache
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.AssemblyInfo.cs
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\ref\task020_distance_beetween_points.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\bin\Debug\net5.0\task020_distance_beetween_points.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\ref\task020_distance_beetween_points.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task020_distance_beetween_points\obj\Debug\net5.0\task020_distance_beetween_points.genruntimeconfig.cache

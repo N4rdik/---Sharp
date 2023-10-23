@@ -1,5 +1,5 @@
 ﻿/*
-22 Напишите программу, которая принимает на вход число(N) и выдаёт таблицу квадратов чисел от 1 до N.
+23 Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
 */
 using System;
 Console.Clear();
@@ -8,7 +8,7 @@ void PrintSquareNumber(int a)
 {
     for (int i = 1; i <= a; i++)
     {
-        System.Console.WriteLine($"{i} * {i} = {Math.Pow(i,2)}");
+        System.Console.WriteLine($"{i} * {i} * {i}= {Math.Pow(i,3)}");
     }
     }
 
