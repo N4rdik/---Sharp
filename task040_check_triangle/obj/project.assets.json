@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040\\task040.csproj",
+      "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040_check_triangle\\task040.csproj",
       "projectName": "task040",
-      "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040\\task040.csproj",
+      "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040_check_triangle\\task040.csproj",
       "packagesPath": "C:\\Users\\s1035442\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040\\obj\\",
+      "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\Geek Brains\\C# Practice\\task040_check_triangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s1035442\\AppData\\Roaming\\NuGet\\NuGet.Config"

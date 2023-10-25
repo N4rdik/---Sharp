@@ -3,3 +3,14 @@ C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Pra
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.AssemblyInfoInputs.cache
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.AssemblyInfo.cs
 C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\ref\task042_decimal_to_binary.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\bin\Debug\net5.0\task042_decimal_to_binary.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\ref\task042_decimal_to_binary.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task042_decimal_to_binary\obj\Debug\net5.0\task042_decimal_to_binary.genruntimeconfig.cache
