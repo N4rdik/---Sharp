@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\ref\Песочница.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\bin\Debug\net5.0\Песочница.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\ref\Песочница.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\Песочница\obj\Debug\net5.0\Песочница.genruntimeconfig.cache

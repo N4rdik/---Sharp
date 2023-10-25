@@ -1,0 +1,16 @@
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.exe
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.deps.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.runtimeconfig.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.runtimeconfig.dev.json
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\ref\task039.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\bin\Debug\net5.0\task039.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.csproj.AssemblyReference.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.AssemblyInfoInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.AssemblyInfo.cs
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.csproj.CoreCompileInputs.cache
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\ref\task039.dll
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.pdb
+C:\Users\s1035442\OneDrive - Syngenta\Рабочий стол\Geek Brains\C# Practice\task039_reverse_array\obj\Debug\net5.0\task039.genruntimeconfig.cache
