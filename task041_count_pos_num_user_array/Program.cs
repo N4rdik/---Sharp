@@ -38,13 +38,12 @@ int[] TakeArray (string message, int size)
 
 int CountPositiveNum (int[] array)
 {
-
- int result = 0;
+ int count = 0;
  for (int i = 0; i < array.Length; i++)
  {
-    if (array[i] > 0) result +=array[i];
+    if (array[i] > 0) count++;
  }
- return result;
+ return count;
 }
 
 
