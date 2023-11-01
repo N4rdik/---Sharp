@@ -47,13 +47,15 @@ void Print2DArray(int[,] array)
     }
 }
 
-int MainDiagonalSumm (int[,] array)
+void RowAveragePrint (int[,] array)
 {
-    int result = 0;
+    int average = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
+        int rowSumm = 0
         for (int j = 0; j < array.GetLength(1); j++)
         {
+            rowSumm = 0
             if(i == j) result = result + array [i,j];
         }
     }
