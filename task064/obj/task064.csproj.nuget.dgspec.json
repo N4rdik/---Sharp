@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\00_off_top_number_devidable_check\\task016.csproj": {}
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\task064\\task064.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\00_off_top_number_devidable_check\\task016.csproj": {
+    "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\task064\\task064.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\00_off_top_number_devidable_check\\task016.csproj",
-        "projectName": "task016",
-        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\00_off_top_number_devidable_check\\task016.csproj",
+        "projectUniqueName": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\task064\\task064.csproj",
+        "projectName": "task064",
+        "projectPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\task064\\task064.csproj",
         "packagesPath": "C:\\Users\\s1035442\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\00_off_top_number_devidable_check\\obj\\",
+        "outputPath": "C:\\Users\\s1035442\\OneDrive - Syngenta\\Рабочий стол\\New folder (2)\\Geek Brains\\C# Practice\\task064\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s1035442\\AppData\\Roaming\\NuGet\\NuGet.Config"

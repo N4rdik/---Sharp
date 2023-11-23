@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 public class Answer
 {
@@ -59,3 +59,6 @@ public class Answer
         Console.WriteLine($"Количество четных элементов: {evenCount}");
     }
 }
+*/
+
+
